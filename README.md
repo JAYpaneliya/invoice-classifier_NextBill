@@ -24,7 +24,7 @@ A FastAPI-based REST API that classifies invoice text into expense categories us
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/invoice-classifier.git
+git clone https://github.com/JAYpaneliya/invoice-classifier.git
 cd invoice-classifier
 ```
 
